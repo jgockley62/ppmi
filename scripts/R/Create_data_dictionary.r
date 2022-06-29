@@ -403,7 +403,7 @@ movers <- c(
   "Data_Dictionary.csv", "Data_Dictionary_-_Harmonized.csv",  'Metabolomic_Analysis_of_LRRK2_PD.csv',
   "Data_Dictionary_-__Annotated_.csv", "FOUND_RFQ_Dictionary.csv", 
   "Page_Descriptions.csv", "PPMI_Online_Dictionary.csv", "PPMI_Online_Codebook.csv",
-  "Derived_Variable_Definitions_and_Score_Calculations.csv", "Deprecated_Variables.csv",
+  "Deprecated_Variables.csv",
   'Deprecated_Biospecimen_Analysis_Results.csv', 'PPMI_Original_Cohort_BL_to_Year_5_Dataset_Apr2020.csv',
   'PPMI_Prodromal_Cohort_BL_to_Year_1_Dataset_Apr2020.csv', 'Subject_Cohort_History.csv',
   'Targeted___untargeted_MS-based_proteomics_of_urine_in_PD.csv', 'Pilot_Biospecimen_Analysis_Results.csv'
